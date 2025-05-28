@@ -1,6 +1,7 @@
+require('dotenv').config();
 const mongoose = require('mongoose');
 
-const reg2022URI = 'mongodb://reg2022:reg2022@15.235.192.50:27017/reg2022';
+const reg2022URI = process.env.REG2022URI;
 
 const reg2022Connection = mongoose.createConnection(reg2022URI);
 

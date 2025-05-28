@@ -1,6 +1,7 @@
+require('dotenv').config();
 const mongoose = require('mongoose');
 
-const gctuserURI = 'mongodb://gctuser_admin:securepass123@15.235.192.50:27017/gctuser';
+const gctuserURI = process.env.GCTUSERURI;
 
 const gctuserConnection = mongoose.createConnection(gctuserURI);
 
