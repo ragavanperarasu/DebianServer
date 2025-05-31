@@ -16,13 +16,25 @@ const postItemSchema = new mongoose.Schema({
   postbymail: String,
   postname: String,
   likes: {
-    type: [String], // store user emails or ids
+    type: [String],
     default: []
   },
   comment: [commentSchema],
   postdate: {
     type: Date,
     default: Date.now
+  },
+  view: {
+    type: Number,
+    default: 0
+  },
+  downloadc: {
+    type: Number,
+    default: 0
+  },
+  likec: {
+    type: Number,
+    default: 0
   }
 });
 

@@ -9,12 +9,17 @@ const userSchema = new mongoose.Schema({
   gender: String,
   dept: String,
   mail: String,
+  role: {
+    type: String,
+    default: "Student"
+  },
   createdAt: {
     type: Date,
     default: Date.now,
     expires: fourYearsInSeconds 
   }
 });
+
 
 
 const UserModel = gctuserConnection.model('User', userSchema);

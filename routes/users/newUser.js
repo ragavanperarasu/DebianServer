@@ -8,7 +8,7 @@ router.post('/newuser', async (req, res, next) => {
     nmail = nmail.toLowerCase();
 
   try {
-    const result = await UsersModel.collection.insertOne({ name, regno, gender, dept, nmail});
+    const result = await UsersModel.collection.insertOne({ name:name, regno:regno, gender:gender, dept:dept, mail:nmail, roll: 'Student'});
 
     if (result.insertedId) {
       res.send('success');

@@ -7,7 +7,7 @@ router.post('/uservalidate', async (req, res, next) => {
 const nmail = mail.toLowerCase();
 
   try {
-    const result = await UsersModel.collection.findOne({nmail: nmail});
+    const result = await UsersModel.collection.findOne({mail: nmail});
 
     if (result) {
       res.send('present');
