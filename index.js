@@ -28,6 +28,10 @@ const booklike = require('./routes/reg2022/books/booklike')
 const bookcomment = require('./routes/reg2022/books/bookcomment')
 
 const notesupl = require('./routes/reg2022/notes/notesupl')
+const notesview = require('./routes/reg2022/notes/notesview')
+const noteslike = require('./routes/reg2022/notes/noteslike')
+const notesdownc = require('./routes/reg2022/notes/notesdownc')
+const notescomment = require('./routes/reg2022/notes/notescomment')
 
 const getpost = require('./routes/reg2022/getpost')
 
@@ -85,6 +89,10 @@ app.use('/',booklike)
 app.use('/',bookcomment)
 
 app.use('/',notesupl)
+app.use('/',notesview)
+app.use('/',noteslike)
+app.use('/',notesdownc)
+app.use('/',notescomment)
 
 app.use('/',getpost)
 
