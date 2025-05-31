@@ -18,8 +18,16 @@ const semcomment = require('./routes/reg2022/sem/semcomment')
 const semdownc = require('./routes/reg2022/sem/semdownc')
 
 const utoupl22 = require('./routes/reg2022/uto/utoupl22')
+const utocomment = require('./routes/reg2022/uto/utocomment')
+const utodownc = require('./routes/reg2022/uto/utodownc')
+const utolike = require('./routes/reg2022/uto/utolike')
+const utoview = require('./routes/reg2022/uto/utoview')
 
 const uttupl22 = require('./routes/reg2022/utt/uttupl22')
+const uttcomment = require('./routes/reg2022/utt/uttcomment')
+const uttdownc = require('./routes/reg2022/utt/uttdownc')
+const uttlike = require('./routes/reg2022/utt/uttlike')
+const uttview = require('./routes/reg2022/utt/uttview')
 
 const booksupl = require('./routes/reg2022/books/booksupl')
 const bookview = require('./routes/reg2022/books/bookview')
@@ -79,8 +87,16 @@ app.use('/',semcomment)
 app.use('/',semdownc)
 
 app.use('/',utoupl22)
+app.use('/',utocomment)
+app.use('/',utodownc)
+app.use('/',utolike)
+app.use('/',utoview)
 
 app.use('/',uttupl22)
+app.use('/',uttcomment)
+app.use('/',uttdownc)
+app.use('/',uttlike)
+app.use('/',uttview)
 
 app.use('/',booksupl)
 app.use('/',bookview)
