@@ -16,7 +16,13 @@ const semview = require('./routes/reg2022/sem/semview')
 const semlike = require('./routes/reg2022/sem/semlike')
 const semcomment = require('./routes/reg2022/sem/semcomment')
 const semdownc = require('./routes/reg2022/sem/semdownc')
+
 const utoupl22 = require('./routes/reg2022/uto/utoupl22')
+
+const uttupl22 = require('./routes/reg2022/utt/uttupl22')
+
+const booksupl = require('./routes/reg2022/books/booksupl')
+
 const getpost = require('./routes/reg2022/getpost')
 
 const app = express();
@@ -61,7 +67,13 @@ app.use('/',semview)
 app.use('/',semlike)
 app.use('/',semcomment)
 app.use('/',semdownc)
+
 app.use('/',utoupl22)
+
+app.use('/',uttupl22)
+
+app.use('/',booksupl)
+
 app.use('/',getpost)
 
 app.use((req, res) => {
