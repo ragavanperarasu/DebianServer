@@ -41,6 +41,9 @@ const noteslike = require('./routes/reg2022/notes/noteslike')
 const notesdownc = require('./routes/reg2022/notes/notesdownc')
 const notescomment = require('./routes/reg2022/notes/notescomment')
 
+const syllupl22 = require('./routes/reg2022/syll/syllupl22')
+const syllview = require('./routes/reg2022/syll/syllview')
+
 const getpost = require('./routes/reg2022/getpost')
 
 const app = express();
@@ -109,6 +112,9 @@ app.use('/',notesview)
 app.use('/',noteslike)
 app.use('/',notesdownc)
 app.use('/',notescomment)
+
+app.use('/',syllupl22)
+app.use('/',syllview)
 
 app.use('/',getpost)
 

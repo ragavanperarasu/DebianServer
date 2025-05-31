@@ -1,13 +1,13 @@
-const mongoose = require('mongoose'); 
-const reg2025Connection = require('../../database/reg2025'); 
+const mongoose = require("mongoose");
+const reg2025Connection = require("../../database/reg2025");
 
 const commentSchema = new mongoose.Schema({
   commentby: String,
   com: String,
   cdate: {
     type: Date,
-    default: Date.now
-  }
+    default: Date.now,
+  },
 });
 
 const postItemSchema = new mongoose.Schema({
@@ -17,25 +17,25 @@ const postItemSchema = new mongoose.Schema({
   postname: String,
   likes: {
     type: [String],
-    default: []
+    default: [],
   },
   comment: [commentSchema],
   postdate: {
     type: Date,
-    default: Date.now
+    default: Date.now,
   },
   view: {
     type: Number,
-    default: 0
+    default: 0,
   },
   downloadc: {
     type: Number,
-    default: 0
+    default: 0,
   },
   likec: {
     type: Number,
-    default: 0
-  }
+    default: 0,
+  },
 });
 
 const youtubeSchema = new mongoose.Schema({
@@ -46,13 +46,13 @@ const youtubeSchema = new mongoose.Schema({
   postname: String,
   likes: {
     type: [String],
-    default: []
+    default: [],
   },
   comment: [commentSchema],
   postdate: {
     type: Date,
-    default: Date.now
-  }
+    default: Date.now,
+  },
 });
 
 const subjectSchema = new mongoose.Schema({
@@ -62,42 +62,57 @@ const subjectSchema = new mongoose.Schema({
   uttqus: [postItemSchema],
   stunote: [postItemSchema],
   youtube: [youtubeSchema],
-  books: [postItemSchema]
+  books: [postItemSchema],
 });
 
-const civil = reg2025Connection.model('civil', new mongoose.Schema({
-  sem: String,
-  sub: [subjectSchema],
-  syllabus: {
-    docurl: String,
-    postby: String,
-    postbymail: String,
-    postname: String,
-    likes: {
-      type: [String],
-      default: []
+const civil = reg2025Connection.model(
+  "civil",
+  new mongoose.Schema({
+    sem: String,
+    sub: [subjectSchema],
+    syllabus: {
+      docurl: String,
+      postby: String,
+      postbymail: String,
+      postname: String,
+      likes: {
+        type: [String],
+        default: [],
+      },
+      comment: [commentSchema],
+      postdate: {
+        type: Date,
+        default: Date.now,
+      },
+      view: {
+        type: Number,
+        default: 0,
+      },
+      downloadc: {
+        type: Number,
+        default: 0,
+      },
+      likec: {
+        type: Number,
+        default: 0,
+      },
     },
-    comment: [commentSchema],
-    postdate: {
-      type: Date,
-      default: Date.now
-    }
-  },
-  timetable: {
-    docurl: String,
-    postby: String,
-    postbymail: String,
-    postname: String,
-    likes: {
-      type: [String],
-      default: []
+    timetable: {
+      docurl: String,
+      postby: String,
+      postbymail: String,
+      postname: String,
+      likes: {
+        type: [String],
+        default: [],
+      },
+      comment: [commentSchema],
+      postdate: {
+        type: Date,
+        default: Date.now,
+      },
     },
-    comment: [commentSchema],
-    postdate: {
-      type: Date,
-      default: Date.now
-    }
-  }
-}));
+  })
+);
 
 module.exports = civil;
