@@ -35,7 +35,7 @@ const postItemSchema = new mongoose.Schema({
   likec: {
     type: Number,
     default: 0,
-  },
+  }
 });
 
 const youtubeSchema = new mongoose.Schema({
@@ -95,7 +95,7 @@ const civil = reg2025Connection.model(
       likec: {
         type: Number,
         default: 0,
-      },
+      }
     },
     timetable: {
       docurl: String,
@@ -111,6 +111,18 @@ const civil = reg2025Connection.model(
         type: Date,
         default: Date.now,
       },
+      view: {
+        type: Number,
+        default: 0,
+      },
+      downloadc: {
+        type: Number,
+        default: 0,
+      },
+      likec: {
+        type: Number,
+        default: 0,
+      }
     },
   })
 );
