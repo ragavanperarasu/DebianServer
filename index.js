@@ -44,6 +44,7 @@ const notescomment = require('./routes/reg2022/notes/notescomment')
 const syllupl22 = require('./routes/reg2022/syll/syllupl22')
 const syllview = require('./routes/reg2022/syll/syllview')
 const sylldownc = require('./routes/reg2022/syll/sylldownc')
+const sylllike = require('./routes/reg2022/syll/sylllike')
 
 const getpost = require('./routes/reg2022/getpost')
 
@@ -117,6 +118,7 @@ app.use('/',notescomment)
 app.use('/',syllupl22)
 app.use('/',syllview)
 app.use('/',sylldownc)
+app.use('/',sylllike)
 
 app.use('/',getpost)
 
