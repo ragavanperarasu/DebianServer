@@ -22,6 +22,10 @@ const utoupl22 = require('./routes/reg2022/uto/utoupl22')
 const uttupl22 = require('./routes/reg2022/utt/uttupl22')
 
 const booksupl = require('./routes/reg2022/books/booksupl')
+const bookview = require('./routes/reg2022/books/bookview')
+const bookdownc = require('./routes/reg2022/books/bookdownc')
+
+const notesupl = require('./routes/reg2022/notes/notesupl')
 
 const getpost = require('./routes/reg2022/getpost')
 
@@ -73,6 +77,10 @@ app.use('/',utoupl22)
 app.use('/',uttupl22)
 
 app.use('/',booksupl)
+app.use('/',bookview)
+app.use('/',bookdownc)
+
+app.use('/',notesupl)
 
 app.use('/',getpost)
 
