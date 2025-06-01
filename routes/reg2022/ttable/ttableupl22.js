@@ -80,7 +80,7 @@ router.post("/ttableupl22", upload.single("pdf"), async (req, res) => {
     // Push to correct subject in that department model
     const result = await deptModel.updateOne(
       { sem: sem },
-      { $set: { syllabus: newSyllabus } }
+      { $set: { timetable: newSyllabus } }
     );
 
     res

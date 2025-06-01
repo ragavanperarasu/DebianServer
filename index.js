@@ -11,6 +11,7 @@ const newUser = require('./routes/users/newUser')
 const uservalidate = require('./routes/users/uservalidate')
 const userdata = require('./routes/users/userdata')
 const getsubreg22 = require('./routes/users/getsubreg22')
+
 const semupl22 = require('./routes/reg2022/sem/semupl22')
 const semview = require('./routes/reg2022/sem/semview')
 const semlike = require('./routes/reg2022/sem/semlike')
@@ -46,6 +47,8 @@ const syllview = require('./routes/reg2022/syll/syllview')
 const sylldownc = require('./routes/reg2022/syll/sylldownc')
 const sylllike = require('./routes/reg2022/syll/sylllike')
 const syllcomment = require('./routes/reg2022/syll/syllcomment')
+
+const ttableupl22 = require('./routes/reg2022/ttable/ttableupl22')
 
 const getpost = require('./routes/reg2022/getpost')
 
@@ -121,6 +124,8 @@ app.use('/',syllview)
 app.use('/',sylldownc)
 app.use('/',sylllike)
 app.use('/',syllcomment)
+
+app.use('/',ttableupl22)
 
 app.use('/',getpost)
 

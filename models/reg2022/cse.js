@@ -48,8 +48,8 @@ const subjectSchema = new mongoose.Schema({
   books: [postItemSchema],
 });
 
-const civil = reg2025Connection.model(
-  "civil",
+const cse = reg2025Connection.model(
+  "cse",
   new mongoose.Schema({
     sem: String,
     sub: [subjectSchema],
@@ -110,4 +110,4 @@ const civil = reg2025Connection.model(
   })
 );
 
-module.exports = civil;
+module.exports = cse;
