@@ -1,0 +1,276 @@
+[
+  {
+    "sem": "Semester 1",
+    "sub": [
+      { "subname": "Heritage of Tamils", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional English", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Linear Algebra and Calculus", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Engineering Physics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Programming in C", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Environmental Science and Engineering", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": "",
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    },
+    "timetable": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": "",
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    }
+  },
+  {
+    "sem": "Semester 2",
+    "sub": [
+      { "subname": "Tamils and Technology", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Values and Ethics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Differential Equations and Numerical Methods", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Applied Chemistry", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Engineering Mechanics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Basics of Civil and Mechanical Engineering", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": "",
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    },
+    "timetable": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": "",
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    }
+  },
+  {
+    "sem": "Semester 3",
+    "sub": [
+      { "subname": "Data Structures", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Electric Circuit Theory", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Field Theory", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Electronic Devices and Circuits", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Electrical Machines-I", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Digital Circuits", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": "",
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    },
+    "timetable": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": "",
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    }
+  },
+  {
+    "sem": "Semester 4",
+    "sub": [
+      { "subname": "Fourier Series and Transform Calculus", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Linear Integrated Circuits", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Electrical Machines - II", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Power Generation, Transmission and Distribution", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Principles of Signals and Systems", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Electrical and Electronic Measurements", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": "",
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    },
+    "timetable": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": "",
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    }
+  },
+  {
+    "sem": "Semester 5",
+    "sub": [
+      { "subname": "Control Systems", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Microprocessors, Microcontrollers and Applications", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Power Electronics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Electrical Machine Design", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective - I", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Constitution of India", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": "",
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    },
+    "timetable": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": "",
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    }
+  },
+  {
+    "sem": "Semester 6",
+    "sub": [
+      { "subname": "Power System Analysis", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Industrial Drives and Control", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Power System Protection", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective - II", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective I", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": "",
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    },
+    "timetable": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": "",
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    }
+  },
+  {
+    "sem": "Semester 7",
+    "sub": [
+      { "subname": "Power System Operation and Control", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective - III", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective - IV", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Open Elective – II / Professional Elective VIII", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Project Management and Entrepreneurship", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": "",
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    },
+    "timetable": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": "",
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    }
+  },
+  {
+    "sem": "Semester 8",
+    "sub": [
+      { "subname": "Professional Elective V", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective VI", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": "",
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    },
+    "timetable": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": "",
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    }
+  }
+]

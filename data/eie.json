@@ -1,0 +1,101 @@
+[
+  {
+    "sem": "Semester 1",
+    "sub": [
+      { "subname": "Heritage of Tamils", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional English", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Linear Algebra and Calculus", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Engineering Physics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Programming in C", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Environmental Science and Engineering", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 2",
+    "sub": [
+      { "subname": "Tamils and Technology", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Values and Ethics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Differential Equations and Numerical Methods", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Physics of Materials", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Applied Chemistry", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Basics of Civil and Mechanical Engineering", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 3",
+    "sub": [
+      { "subname": "Thermodynamics and Fluid Mechanics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Electrical Circuits and Networks", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Analog Electronics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Sensors and Transducers", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Electrical and Electronic Measurement Techniques", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Constitution of India", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 4",
+    "sub": [
+      { "subname": "Fourier Series and Transform Calculus", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Electrical Machines", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Electronics for Analog Signal Processing", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Digital Electronics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Industrial Instrumentation", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Fundamentals of Signals and Systems", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 5",
+    "sub": [
+      { "subname": "Control System Design", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Fundamentals of Digital Signal Processing", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Microprocessors, Microcontrollers and Interfacing", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Principles of Communication Systems", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Industrial Hydraulics and Pneumatics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective - I", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 6",
+    "sub": [
+      { "subname": "Industrial Management and Economics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Process Dynamics and Control", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Industrial Control Systems", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Basics of VLSI Design", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective - II", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Open Elective–I/Professional Elective–VII", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 7",
+    "sub": [
+      { "subname": "Fundamentals of Soft Computing", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Power Electronic Devices and Circuits", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective – III", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective – IV", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Open Elective – II/Professional Elective – VIII", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 8",
+    "sub": [
+      { "subname": "Professional Elective V", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective VI", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  }
+]

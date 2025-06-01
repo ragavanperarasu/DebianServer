@@ -1,0 +1,410 @@
+[
+  {
+    "sem": "Semester 1",
+    "sub": [
+      { 
+        "subname": "Heritage of Tamils",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Values and Ethics",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Linear Algebra and Calculus",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Engineering Physics",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Engineering Chemistry",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Basics of Electrical and Electronics Engineering",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      }
+    ],
+    "syllabus": null,
+    "timetable": null
+  },
+  {
+    "sem": "Semester 2",
+    "sub": [
+      { 
+        "subname": "Tamils and Technology",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Professional English",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Differential Equations and Numerical methods",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Engineering Mechanics",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Programming in C",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Environmental Science and Engineering",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      }
+    ],
+    "syllabus": null,
+    "timetable": null
+  },
+  {
+    "sem": "Semester 3",
+    "sub": [
+      { 
+        "subname": "Transform Calculus and Partial Differential Equations",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Mechanics of Fluids",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Engineering Geology",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Data Structures",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Surveying",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Construction Materials and Technology",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      }
+    ],
+    "syllabus": null,
+    "timetable": null
+  },
+  {
+    "sem": "Semester 4",
+    "sub": [
+      { 
+        "subname": "Applied Hydraulics and Fluid Machinery",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Mechanics of Solids II",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Concrete Technology",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Design of Reinforced Concrete Elements",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Water Supply Engineering",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Constitution of India",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      }
+    ],
+    "syllabus": null,
+    "timetable": null
+  },
+  {
+    "sem": "Semester 5",
+    "sub": [
+      { 
+        "subname": "Structural Analysis I",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Design of Steel Structures",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Wastewater Engineering",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Highway and Railway Engineering",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Mechanics of Soils",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Professional Elective I",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      }
+    ],
+    "syllabus": null,
+    "timetable": null
+  },
+  {
+    "sem": "Semester 6",
+    "sub": [
+      { 
+        "subname": "Structural Analysis II",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Design of Concrete Structures",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Water Resources Engineering",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Foundation Engineering",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Professional Elective II",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Open Elective I/ Professional Elective VII",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      }
+    ],
+    "syllabus": null,
+    "timetable": null
+  },
+  {
+    "sem": "Semester 7",
+    "sub": [
+      { 
+        "subname": "Construction Engineering and Management",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Estimation, Costing and Valuation",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Prestressed and Precast Concrete Structures",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Professional Elective III",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Professional Elective IV",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Open Elective II /Professional Elective VIII",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      }
+    ],
+    "syllabus": null,
+    "timetable": null
+  },
+  {
+    "sem": "Semester 8",
+    "sub": [
+      { 
+        "subname": "Professional Elective V",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Professional Elective VI",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      }
+    ],
+    "syllabus": null,
+    "timetable": null
+  }
+]

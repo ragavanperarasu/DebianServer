@@ -1,0 +1,277 @@
+[
+  {
+    "sem": "Semester 1",
+    "sub": [
+      { "subname": "Heritage of Tamils", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Values and Ethics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Linear Algebra and Calculus", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Engineering Physics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Engineering Chemistry", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Basics of Electrical and Electronics Engineering", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": null,
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    },
+    "timetable": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": null,
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    }
+  },
+  {
+    "sem": "Semester 2",
+    "sub": [
+      { "subname": "Tamils and Technology", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional English", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Differential Equations and Numerical Methods", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Materials Science", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Python Programming", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Environmental Science and Engineering", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": null,
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    },
+    "timetable": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": null,
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    }
+  },
+  {
+    "sem": "Semester 3",
+    "sub": [
+      { "subname": "Thermal Systems and Heat Transfer", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Engineering Mechanics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Machine Tools and Processes", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Engineering Metallurgy", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Manufacturing Technology", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Constitution of India", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": null,
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    },
+    "timetable": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": null,
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    }
+  },
+  {
+    "sem": "Semester 4",
+    "sub": [
+      { "subname": "Applied Probability and Statistics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Fluid Mechanics and Machinery", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Mechanics of Materials", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "CNC Technology", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Process Planning and Cost Estimation", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": null,
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    },
+    "timetable": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": null,
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    }
+  },
+  {
+    "sem": "Semester 5",
+    "sub": [
+      { "subname": "Operations Research Techniques", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Mechanics of Machines", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Metrology and Computer Aided Inspection", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Production Planning and Control", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Theory of Metal Cutting", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective I", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": null,
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    },
+    "timetable": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": null,
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    }
+  },
+  {
+    "sem": "Semester 6",
+    "sub": [
+      { "subname": "Automation and CIM", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Machine Elements Design", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Fluid Power Drives and Controls", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Statistical Quality Control and Reliability Engineering", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective II", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Open Elective I / Professional Elective VII", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": null,
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    },
+    "timetable": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": null,
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    }
+  },
+  {
+    "sem": "Semester 7",
+    "sub": [
+      { "subname": "Total Quality Management Concepts", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Additive Manufacturing", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Jigs, Fixtures and Press Tools", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective III", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective IV", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Open Elective II / Professional Elective VIII", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": null,
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    },
+    "timetable": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": null,
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    }
+  },
+  {
+    "sem": "Semester 8",
+    "sub": [
+      { "subname": "Professional Elective V", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective VI", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": null,
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    },
+    "timetable": {
+      "docurl": "",
+      "postby": "",
+      "postbymail": "",
+      "postname": "",
+      "likes": [],
+      "comment": [],
+      "postdate": null,
+      "view": 0,
+      "downloadc": 0,
+      "likec": 0
+    }
+  }
+]

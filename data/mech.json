@@ -1,0 +1,102 @@
+[
+  {
+    "sem": "Semester 1",
+    "sub": [
+      { "subname": "Heritage of Tamils", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Values and Ethics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Linear Algebra and Calculus", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Engineering Physics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Engineering Chemistry", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Basics of Electrical and Electronics Engineering", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 2",
+    "sub": [
+      { "subname": "Tamils and Technology", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional English", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Differential Equations and Numerical Methods", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Materials Science", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Python Programming", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Environmental Science and Engineering", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 3",
+    "sub": [
+      { "subname": "Applied Engineering Mechanics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Solid Mechanics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Fluid Mechanics and Machinery", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Manufacturing Technology I", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Materials Engineering and Metallurgy", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Thermodynamics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 4",
+    "sub": [
+      { "subname": "Probability and Statistics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Hydraulics and Pneumatic Controls", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Kinematics of Machines", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Thermal Engineering", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Manufacturing Technology II", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Mechanical Measurements and Control", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 5",
+    "sub": [
+      { "subname": "Heat and Mass Transfer", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Design of Machine Elements", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Dynamics of Machines", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Theory of Elasticity", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective I", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Constitution of India", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 6",
+    "sub": [
+      { "subname": "Metrology and Quality Control", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Finite Element Analysis", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Design of Transmission Systems", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Mechatronics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective II", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Open Elective I/ Professional Elective VII", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 7",
+    "sub": [
+      { "subname": "Operations Research", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Refrigeration and Air Conditioning", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Computer Aided Design and Manufacturing", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective III", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective IV", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Open Elective II/ Professional Elective VIII", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 8",
+    "sub": [
+      { "subname": "Professional Elective V", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective VI", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  }
+]

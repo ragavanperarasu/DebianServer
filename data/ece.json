@@ -1,0 +1,102 @@
+[
+  {
+    "sem": "Semester 1",
+    "sub": [
+      { "subname": "Heritage of Tamils", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional English", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Linear Algebra and Calculus", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Engineering Physics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Programming in C", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Environmental Science and Engineering", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 2",
+    "sub": [
+      { "subname": "Tamils and Technology", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Values and Ethics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Differential Equations and Numerical Methods", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Semiconductor Physics", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Applied Chemistry", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Basics of Electrical Engineering", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 3",
+    "sub": [
+      { "subname": "Circuit Theory", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Data Structures", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Signals and Systems", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Analog Circuits", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Digital Circuits Design", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Electromagnetic Waves and Waveguides", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 4",
+    "sub": [
+      { "subname": "Probability and Random Process", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Analog Integrated Circuits", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Analog Communication", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Digital Signal Processing", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Networks and Transmission Lines", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Microprocessor and Microcontroller", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 5",
+    "sub": [
+      { "subname": "Control System Engineering", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Digital Communication", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Embedded Computing", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Computer Architecture and Organization", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective I", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Constitution of India", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 6",
+    "sub": [
+      { "subname": "Optical Fiber Communication", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Antennas and Wave Propagation", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "VLSI Design", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Computer Networks", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective II", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Open Elective I/Professional Elective VII", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 7",
+    "sub": [
+      { "subname": "Management Theory and Practice", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Microwave and RF Engineering", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Wireless Communication", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective III", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective IV", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Open Elective II/Professional Elective VIII", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  },
+  {
+    "sem": "Semester 8",
+    "sub": [
+      { "subname": "Professional Elective V", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] },
+      { "subname": "Professional Elective VI", "semqus": [], "utoqus": [], "uttqus": [], "stunote": [], "books": [] }
+    ],
+    "syllabus": {},
+    "timetable": {}
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "sem": "Semester 1",
+    "sub": [
+      { 
+        "subname": "Heritage of Tamils",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Professional English",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Linear Algebra and Calculus",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Engineering Physics",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Programming in C",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Environmental Science and Engineering",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      }
+    ],
+    "syllabus": null,
+    "timetable": null
+  },
+  {
+    "sem": "Semester 2",
+    "sub": [
+      { 
+        "subname": "Tamils and Technology",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Values and Ethics",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Vector Spaces and Differential Equations with MATLAB",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Physics for Information Science",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Applied Chemistry",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Basics of Electrical and Electronics Engineering",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      }
+    ],
+    "syllabus": null,
+    "timetable": null
+  },
+  {
+    "sem": "Semester 3",
+    "sub": [
+      { 
+        "subname": "Probability, Random Processes and Queueing Theory",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Digital Systems",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Discrete Structures",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Data Structures",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Foundations of Data Science",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Object Oriented Programming",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      }
+    ],
+    "syllabus": null,
+    "timetable": null
+  },
+  {
+    "sem": "Semester 4",
+    "sub": [
+      { 
+        "subname": "Analog and Digital Communication",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Computer Architecture",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Data Base Management Systems",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "System Programming and Operating Systems",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Design and Analysis of Algorithms",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Theory of Computation",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      }
+    ],
+    "syllabus": null,
+    "timetable": null
+  },
+  {
+    "sem": "Semester 5",
+    "sub": [
+      { 
+        "subname": "Embedded Computing Systems",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Computer Networks",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Artificial Intelligence",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Web Programming",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Constitution of India",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Software Engineering Methodologies",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      }
+    ],
+    "syllabus": null,
+    "timetable": null
+  },
+  {
+    "sem": "Semester 6",
+    "sub": [
+      { 
+        "subname": "Industrial Management and Economics",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Computer Network Security",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Compiler Design",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Machine Learning",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      }
+    ],
+    "syllabus": null,
+    "timetable": null
+  },
+  {
+    "sem": "Semester 7",
+    "sub": [
+      { 
+        "subname": "Digital Image Processing",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Cloud Essentials",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      }
+    ],
+    "syllabus": null,
+    "timetable": null
+  },
+  {
+    "sem": "Semester 8",
+    "sub": [
+      { 
+        "subname": "Professional Elective IV",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      },
+      { 
+        "subname": "Professional Elective V",
+        "semqus": [],
+        "utoqus": [],
+        "uttqus": [],
+        "stunote": [],
+        "books": []
+      }
+    ],
+    "syllabus": null,
+    "timetable": null
+  }
+]
