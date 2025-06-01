@@ -4,15 +4,15 @@ const router = express.Router();
 const multer = require("multer");
 const path = require("path");
 
-const civil = require("../../../models/reg2022/civil");
-const cse = require("../../../models/reg2022/civil");
-const ece = require("../../../models/reg2022/civil");
-const eee = require("../../../models/reg2022/civil");
-const eie = require("../../../models/reg2022/civil");
-const ibt = require("../../../models/reg2022/civil");
-const it = require("../../../models/reg2022/civil");
-const mech = require("../../../models/reg2022/civil");
-const prod = require("../../../models/reg2022/civil");
+const civil = require('../../../models/reg2022/civil');
+const cse = require('../../../models/reg2022/cse');
+const ece = require('../../../models/reg2022/ece');
+const eee = require('../../../models/reg2022/eee');
+const eie = require('../../../models/reg2022/eie');
+const ibt = require('../../../models/reg2022/ibt');
+const it = require('../../../models/reg2022/it');
+const mech = require('../../../models/reg2022/mech');
+const prod = require('../../../models/reg2022/prod');
 
 // Multer storage config
 const storage = multer.diskStorage({
