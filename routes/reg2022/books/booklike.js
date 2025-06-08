@@ -17,7 +17,6 @@ router.post('/booklike', async (req, res) => {
   try {
     const { department, sem, reg, subname, postdate, mail } = req.body;
 
- 
     let deptModel;
     if (department === 'Civil Engineering') deptModel = civil;
     else if (department === 'Computer Science Engineering') deptModel = cse;
@@ -33,24 +32,37 @@ router.post('/booklike', async (req, res) => {
     }
 
 
-   const result = await deptModel.updateOne(
-      {
-        sem: sem,
-        "sub.subname": subname,
-        "sub.books.postdate": new Date(postdate),
-        "sub.books.likes": { $ne: mail }, // mail not already liked
-      },
-      {
-        $addToSet: { "sub.$[s].books.$[q].likes": mail },
-        $inc: { "sub.$[s].books.$[q].likec": 1 }
-      },
-      {
-        arrayFilters: [
-          { "s.subname": subname },
-          { "q.postdate": new Date(postdate) }
-        ]
+const result = await deptModel.updateOne(
+  {
+    sem: sem,
+    sub: {
+      $elemMatch: {
+        subname: subname,
+        books: {
+          $elemMatch: {
+            postdate: new Date(postdate),
+            likes: { $ne: mail }
+          }
+        }
       }
-    );
+    }
+  },
+  {
+    $addToSet: { "sub.$[s].books.$[q].likes": mail },
+    $inc: { "sub.$[s].books.$[q].likec": 1 }
+  },
+  {
+    arrayFilters: [
+      { "s.subname": subname },
+      { "q.postdate": new Date(postdate) }
+    ]
+  }
+);
+
+
+
+
+
     if(result.modifiedCount == 1){
       res.send("success")
     }

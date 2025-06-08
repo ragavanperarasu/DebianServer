@@ -33,24 +33,33 @@ router.post('/sem22like', async (req, res) => {
     }
 
 
-   const result = await deptModel.updateOne(
-      {
-        sem: sem,
-        "sub.subname": subname,
-        "sub.semqus.postdate": new Date(postdate),
-        "sub.semqus.likes": { $ne: mail }, // mail not already liked
-      },
-      {
-        $addToSet: { "sub.$[s].semqus.$[q].likes": mail },
-        $inc: { "sub.$[s].semqus.$[q].likec": 1 }
-      },
-      {
-        arrayFilters: [
-          { "s.subname": subname },
-          { "q.postdate": new Date(postdate) }
-        ]
+  const result = await deptModel.updateOne(
+  {
+    sem: sem,
+    sub: {
+      $elemMatch: {
+        subname: subname,
+        semqus: {
+          $elemMatch: {
+            postdate: new Date(postdate),
+            likes: { $ne: mail }
+          }
+        }
       }
-    );
+    }
+  },
+  {
+    $addToSet: { "sub.$[s].semqus.$[q].likes": mail },
+    $inc: { "sub.$[s].semqus.$[q].likec": 1 }
+  },
+  {
+    arrayFilters: [
+      { "s.subname": subname },
+      { "q.postdate": new Date(postdate) }
+    ]
+  }
+);
+
     if(result.modifiedCount == 1){
       res.send("success")
     }

@@ -1,4 +1,5 @@
 require('dotenv').config();
+require('./cleanupJob');
 const express = require('express');
 const path = require('path');
 const bodyParser = require('body-parser')
@@ -51,6 +52,14 @@ const syllcomment = require('./routes/reg2022/syll/syllcomment')
 const ttableupl22 = require('./routes/reg2022/ttable/ttableupl22')
 
 const getpost = require('./routes/reg2022/getpost')
+
+const msgtext = require('./routes/message/msgtext')
+const msgget = require('./routes/message/msgget')
+const msgpdf = require('./routes/message/msgpdf')
+const msglike = require('./routes/message/msglike')
+
+//const getalu = require('./routes/alumin/getalu')
+//const uplalu = require('./routes/alumin/uplalu')
 
 const app = express();
 const limiter = rateLimit({
@@ -128,6 +137,14 @@ app.use('/',syllcomment)
 app.use('/',ttableupl22)
 
 app.use('/',getpost)
+
+app.use('/',msgtext)
+app.use('/',msgget)
+app.use('/',msgpdf)
+app.use('/',msglike)
+
+//app.use('/',getalu)
+//app.use('/',uplalu)
 
 app.use((req, res) => {
   res.status(404).sendFile(path.join(__dirname, 'public', '404.html'));

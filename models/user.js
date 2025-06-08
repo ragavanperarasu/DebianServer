@@ -9,7 +9,7 @@ const userSchema = new mongoose.Schema({
   gender: String,
   dept: String,
   mail: String,
-  role: {
+  roll: {
     type: String,
     default: "Student"
   },

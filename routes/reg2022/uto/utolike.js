@@ -32,24 +32,33 @@ router.post('/utolike', async (req, res) => {
     }
 
 
-   const result = await deptModel.updateOne(
-      {
-        sem: sem,
-        "sub.subname": subname,
-        "sub.utoqus.postdate": new Date(postdate),
-        "sub.utoqus.likes": { $ne: mail }, // mail not already liked
-      },
-      {
-        $addToSet: { "sub.$[s].utoqus.$[q].likes": mail },
-        $inc: { "sub.$[s].utoqus.$[q].likec": 1 }
-      },
-      {
-        arrayFilters: [
-          { "s.subname": subname },
-          { "q.postdate": new Date(postdate) }
-        ]
+const result = await deptModel.updateOne(
+  {
+    sem: sem,
+    sub: {
+      $elemMatch: {
+        subname: subname,
+        utoqus: {
+          $elemMatch: {
+            postdate: new Date(postdate),
+            likes: { $ne: mail }
+          }
+        }
       }
-    );
+    }
+  },
+  {
+    $addToSet: { "sub.$[s].utoqus.$[q].likes": mail },
+    $inc: { "sub.$[s].utoqus.$[q].likec": 1 }
+  },
+  {
+    arrayFilters: [
+      { "s.subname": subname },
+      { "q.postdate": new Date(postdate) }
+    ]
+  }
+);
+
     if(result.modifiedCount == 1){
       res.send("success")
     }

@@ -33,24 +33,37 @@ router.post('/noteslike', async (req, res) => {
     }
 
 
-   const result = await deptModel.updateOne(
-      {
-        sem: sem,
-        "sub.subname": subname,
-        "sub.stunote.postdate": new Date(postdate),
-        "sub.stunote.likes": { $ne: mail }, // mail not already liked
-      },
-      {
-        $addToSet: { "sub.$[s].stunote.$[q].likes": mail },
-        $inc: { "sub.$[s].stunote.$[q].likec": 1 }
-      },
-      {
-        arrayFilters: [
-          { "s.subname": subname },
-          { "q.postdate": new Date(postdate) }
-        ]
+const result = await deptModel.updateOne(
+  {
+    sem: sem,
+    sub: {
+      $elemMatch: {
+        subname: subname,
+        stunote: {
+          $elemMatch: {
+            postdate: new Date(postdate),
+            likes: { $ne: mail }
+          }
+        }
       }
-    );
+    }
+  },
+  {
+    $addToSet: { "sub.$[s].stunote.$[q].likes": mail },
+    $inc: { "sub.$[s].stunote.$[q].likec": 1 }
+  },
+  {
+    arrayFilters: [
+      { "s.subname": subname },
+      { "q.postdate": new Date(postdate) }
+    ]
+  }
+);
+
+
+
+
+
     if(result.modifiedCount == 1){
       res.send("success")
     }

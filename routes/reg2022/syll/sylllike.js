@@ -42,6 +42,7 @@ router.post('/sylllike', async (req, res) => {
         $inc: { "syllabus.likec": 1 }
       }
     );
+    
     if(result.modifiedCount == 1){
       res.send("success")
     }
